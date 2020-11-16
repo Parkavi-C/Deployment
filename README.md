@@ -38,13 +38,6 @@ or
 
 ```git push heroku master```
 
-
-<p align="center">
-  <img src="https://github.com/nursnaaz/ML-Heroku-Deployement/blob/master/Screenshot%202020-07-07%20at%202.16.26%20AM.png" width="600" title="hover text">
- 
-</p>
-
-
 8. After completing you can see a message app is deployed with an URL
 
 9. Take the url and launch it in the browser
@@ -55,5 +48,3 @@ or
 
 Thats it
 
-Reference:
-https://github.com/PaacMaan/cars-price-predictor
