@@ -1,7 +1,7 @@
 # ML-Heroku-Deployement
 
 
-1. Siguu and create a heroku account
+1. Sign up and create a heroku account
 
 ```https://signup.heroku.com/```
 
